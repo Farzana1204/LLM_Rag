@@ -1,5 +1,10 @@
 pypdf
-chromadb
 sentence-transformers
 langchain-text-splitters
-anthropic
+numpy
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+ollama
+openai
